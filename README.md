@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liggar Dicky Ardy Prayoga</h1>
 <h3 align="center">A passionate frontend developer from Bali, Indonesia</h3>
 
+<img align="center" width="100%" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/liggardap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liggardap" height="30" width="40" /></a>
