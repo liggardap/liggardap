@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liggar Dicky Ardy Prayoga</h1>
-<h3 align="center">A passionate frontend developer from Bali, Indonesia</h3>
+<h3 align="center">A passionate backend developer from Bali, Indonesia</h3>
 
 <img align="center" width="100%" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
